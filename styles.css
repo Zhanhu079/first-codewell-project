@@ -1,0 +1,73 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+
+#title, #projects, #testimonials, #contact {
+  background-color: black;
+  padding: 3% 10% 3%;
+  color: #fff;
+}
+
+#nav {
+  padding-bottom: 5%;
+}
+
+#nav-btn {
+  border-radius: 1px;
+  padding: 10px 15px;
+}
+
+#navbar-brand, #nav-btn, h1, h3, h5 {
+  font-family: 'Playfair Display', serif;
+}
+
+h1, h3, h5 {
+  padding-bottom: 10px;
+}
+
+p {
+  color: grey;
+}
+
+#nav-btn:hover {
+  background-color: transparent;
+  color: #fff;
+}
+
+.title-text {
+  margin-bottom: 10%;
+}
+
+.logo {
+  padding: 10px;
+}
+
+.project-img {
+  width: 85%;
+  padding-bottom: 15px;
+}
+
+.portfolio-text, .test-heading, .test-text, .contact-text {
+  width: 85%;
+  line-height: 1.5rem;
+}
+
+#testimonials, footer {
+  background-color: #2e3038;
+}
+
+footer {
+  padding: 20px 10%;
+}
+
+.footer-heading {
+  display: inline-block;
+  color: #fff;
+}
+
+.footer-icon {
+  float: right;
+  margin-left: 10px;
+}
